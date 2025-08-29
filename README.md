@@ -1,4 +1,4 @@
-# VibeTetris
+# [VibeTetris](https://vibetetris.github.io)
 A ✨ vibe coded ✨ clone of the classic game Tetris created with GPT-5 with a bonus feature (not a bug)!
 
 <img width="1456" height="829" alt="image" src="https://github.com/user-attachments/assets/6e9b93ac-eca2-4be7-b323-f98fd3c3c63f" />
